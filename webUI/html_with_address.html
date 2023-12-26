@@ -1,0 +1,149 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Python Backend Interface</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: #f4f4f4;
+            padding: 20px;
+            color: #333;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            margin: 0;
+        }
+        .container {
+            width: 100%;
+            max-width: 600px;
+            background: #fff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+        }
+        h2 {
+            color: #007bff;
+            font-size: 1.5em;
+            margin-bottom: 15px;
+        }
+        input, button, textarea {
+            width: calc(100% - 24px);
+            padding: 12px;
+            margin-bottom: 15px;
+            border-radius: 5px;
+            border: 1px solid #ccc;
+            box-sizing: border-box;
+            transition: all 0.3s ease;
+        }
+        textarea {
+            height: 100px; /* Height of the response textbox */
+            resize: vertical;
+        }
+        input:focus, button:focus, textarea:focus {
+            outline: none;
+            border-color: #007bff;
+            box-shadow: 0 0 5px #007bff;
+        }
+        button {
+            background-color: #28a745;
+            color: white;
+            border: none;
+            cursor: pointer;
+        }
+        button:hover {
+            background-color: #218838;
+        }
+        @media (max-width: 768px) {
+            body {
+                padding: 10px;
+            }
+            .container {
+                padding: 15px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h2>Get Quote</h2>
+        <input type="text" id="nameInput" placeholder='{"Name": "Bob", "Age": 2, "Smokes": "No", "Drinks" "Alcohol": "No", "Exercises Irregularly": "Yes",  "Sleeps Late": "Yes", Diet Irregularity: Yes,   Emotionally Unstable: No }'>
+        <button onclick="greet()">Quote</button>
+
+        <h2>Get Value Using ID</h2>
+        <input type="text" id="getKeyInput" placeholder="Enter key">
+        <button onclick="getValue()">Get Value</button>
+
+        <h2>Insert Value</h2>
+        <input type="text" id="insertKeyInput" placeholder="Enter ID">
+        <input type="text" id="insertValueInput" placeholder='{"Name": "Bob", "Age": 2, "Smokes": "No", "Drinks" "Alcohol": "No", "Exercises Irregularly": "Yes",  "Sleeps Late": "Yes", Diet Irregularity: Yes,   Emotionally Unstable: No }'>
+        <button onclick="insertValue()">Insert Value</button>
+
+        <h2>Response</h2>
+        <textarea id="responseOutput" readonly></textarea>
+    </div>
+
+    <script>
+        function updateResponse(message) {
+            document.getElementById('responseOutput').value = message;
+        }
+
+        function greet() {
+            var name = document.getElementById('nameInput').value;
+            if (!name) {
+                updateResponse('Please enter a name.');
+                return;
+            }
+            fetch('http://localhost:80/greet?name=' + name)
+                .then(response => response.json())
+                .then(data => {
+                    updateResponse(data.message); // Make sure 'data.message' is the correct path
+                })
+                .catch(error => {
+                    console.error('Error:', error);
+                    updateResponse('An error occurred.' + error);
+                });
+        }
+
+        function getValue() {
+            var key = document.getElementById('getKeyInput').value;
+            if (!key) {
+                updateResponse('Please enter a key.');
+                return;
+            }
+            fetch('http://localhost:80/get?key=' + key)
+                .then(response => response.json())
+                .then(data => {
+                    updateResponse(JSON.stringify(data));
+                });
+        }
+
+        function insertValue() {
+            var key = document.getElementById('insertKeyInput').value;
+            var value = document.getElementById('insertValueInput').value;
+            if (!key) {
+                updateResponse('Please enter a key and value.');
+                return;
+            }
+            if (!value) {
+                updateResponse('Please enter a value.');
+                return;
+            }
+            fetch('http://localhost:80/insert', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json',
+                },
+                body: JSON.stringify({ key: key, value: value }),
+            })
+            .then(response => response.json())
+            .then(data => {
+                updateResponse(JSON.stringify(data));
+            });
+        }
+    </script>
+</body>
+</html>

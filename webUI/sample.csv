@@ -1,0 +1,201 @@
+ID,Name,Age,Occupation,Health Status,Smokes,Drinks Alcohol,Exercises Irregularly,Sleeps Late,Diet Irregularity,Emotionally Unstable,Quote Amount,Claim Amount
+101,Valerie Valdez,35,Income > 300k,Needs Attention,Yes,Yes,Yes,Yes,Yes,Yes,4116.129187,2271.327474
+102,Andrew Mcbride,38,Income < 300k,Healthy,No,No,No,No,No,No,2606.581792,1553.09385
+103,Denise Rodriguez,68,Income < 300k,Needs Attention,Yes,Yes,Yes,Yes,Yes,Yes,5148.095635,2838.706192
+104,Heidi Johnson,57,Income > 300k,Needs Attention,Yes,Yes,Yes,Yes,Yes,Yes,5265.070205,2778.336248
+105,Melissa Rosario,83,Income < 300k,Healthy,No,No,No,No,No,No,4507.997927,2259.541461
+106,Derrick Barrett,27,Income > 300k,Healthy,No,No,No,No,No,No,2698.803149,1320.17043
+107,Casey Stone,29,Income > 300k,Healthy,No,No,No,No,No,No,2610.844263,1688.003549
+108,Maria Barajas,61,Income < 300k,Needs Attention,Yes,Yes,Yes,Yes,Yes,Yes,5137.68343,2653.391349
+109,Steven Powell,57,Income < 300k,Needs Attention,Yes,Yes,Yes,Yes,Yes,Yes,4994.543043,2669.345472
+110,Deborah Jones,84,Income < 300k,Needs Attention,Yes,Yes,Yes,Yes,Yes,Yes,5625.375136,3900.746312
+111,Charles Lane,70,Income < 300k,Healthy,No,No,No,No,No,No,4466.760061,2870.72539
+112,Elizabeth Foley,38,Income > 300k,Healthy,No,No,No,No,No,No,3194.745691,1700.865348
+113,Megan Liu,24,Income > 300k,Healthy,No,No,No,No,No,No,2440.877412,1508.978241
+114,Crystal Russell,29,Income > 300k,Healthy,No,No,No,No,No,No,2928.523797,1470.428554
+115,Charles Sawyer,69,Income > 300k,Healthy,No,No,No,No,No,No,3922.306432,2351.150661
+116,Tasha Dennis,84,Income < 300k,Needs Attention,Yes,Yes,Yes,Yes,Yes,Yes,5011.861252,3714.557849
+117,Kenneth Williams,28,Income < 300k,Healthy,No,No,No,No,No,No,1535.365982,1057.927821
+118,Erin Thomas,64,Income < 300k,Healthy,No,No,No,No,No,No,4192.277371,2116.515938
+119,Sarah Ballard,73,Income > 300k,Needs Attention,Yes,Yes,Yes,Yes,Yes,Yes,6388.782558,3603.400602
+120,Karen Davis,30,Income > 300k,Healthy,No,No,No,No,No,No,2928.640291,1768.314098
+121,Fernando Powers,34,Income > 300k,Healthy,No,No,No,No,No,No,3336.877542,1797.457133
+122,Dana Johnson,39,Income < 300k,Healthy,No,No,No,No,No,No,2743.175393,1689.118585
+123,Denise Ramsey,76,Income < 300k,Needs Attention,Yes,Yes,Yes,Yes,Yes,Yes,5388.125314,2962.323734
+124,Denise Garcia,54,Income > 300k,Needs Attention,Yes,Yes,Yes,Yes,Yes,Yes,5355.319457,3098.807712
+125,Nancy Singleton,49,Income > 300k,Healthy,No,No,No,No,No,No,3222.911163,1961.081278
+126,Brenda Ramsey,76,Income < 300k,Needs Attention,Yes,Yes,Yes,Yes,Yes,Yes,5615.914219,3623.174613
+127,Timothy Young,18,Income > 300k,Healthy,No,No,No,No,No,No,1874.43781,1292.092923
+128,John Brown,48,Income < 300k,Healthy,No,No,No,No,No,No,3415.815944,1541.993343
+129,Ian Fisher,55,Income > 300k,Healthy,No,No,No,No,No,No,3988.230366,2694.037182
+130,Daniel Barber,31,Income < 300k,Healthy,No,No,No,No,No,No,1980.022791,1343.581057
+131,Christopher Ellis,57,Income > 300k,Healthy,No,No,No,No,No,No,3802.876858,2180.332666
+132,Theresa Robinson,67,Income > 300k,Healthy,No,No,No,No,No,No,4931.562628,2418.005029
+133,Steven George,23,Income < 300k,Healthy,No,No,No,No,No,No,1621.059219,997.2074827
+134,Brandi Mcdonald,69,Income > 300k,Needs Attention,Yes,Yes,Yes,Yes,Yes,Yes,5887.979574,2872.992839
+135,Jeffrey Raymond,73,Income < 300k,Healthy,No,No,No,No,No,No,3351.191069,2198.640195
+136,Lucas Wolfe,33,Income > 300k,Healthy,No,No,No,No,No,No,2903.422269,1619.967713
+137,Leslie Wilson,87,Income > 300k,Needs Attention,Yes,Yes,Yes,Yes,Yes,Yes,6869.225857,3734.468213
+138,William Miles,64,Income < 300k,Needs Attention,Yes,Yes,Yes,Yes,Yes,Yes,5019.517453,2749.656687
+139,Alexander Poole,68,Income < 300k,Needs Attention,Yes,Yes,Yes,Yes,Yes,Yes,5713.009911,2696.23227
+140,Michael Dean,79,Income < 300k,Needs Attention,Yes,Yes,Yes,Yes,Yes,Yes,5909.054491,3349.366586
+141,Robert Haney,40,Income < 300k,Healthy,No,No,No,No,No,No,2359.507901,1718.313364
+142,William Smith,44,Income > 300k,Healthy,No,No,No,No,No,No,3398.741062,1780.548284
+143,Teresa Carter,26,Income > 300k,Needs Attention,Yes,Yes,Yes,Yes,Yes,Yes,3739.809881,2022.436451
+144,Austin Dunn,44,Income > 300k,Healthy,No,No,No,No,No,No,2896.503137,1751.07835
+145,Michael Marshall,62,Income < 300k,Needs Attention,Yes,Yes,Yes,Yes,Yes,Yes,4926.499178,2955.10143
+146,Alyssa Stokes,23,Income > 300k,Healthy,No,No,No,No,No,No,2401.601643,1364.237412
+147,Nicole Andrews,27,Income < 300k,Needs Attention,Yes,Yes,Yes,Yes,Yes,Yes,2720.251112,1731.460248
+148,Manuel Brown,36,Income < 300k,Healthy,No,No,No,No,No,No,1958.612194,1205.17047
+149,Jamie Cortez,65,Income < 300k,Healthy,No,No,No,No,No,No,3473.142526,1930.362983
+150,Timothy Nelson,29,Income > 300k,Healthy,No,No,No,No,No,No,2546.949129,1531.92558
+151,Amy Dunn,35,Income < 300k,Healthy,No,No,No,No,No,No,2313.177093,1272.030878
+152,Jacqueline Pierce,72,Income < 300k,Needs Attention,Yes,Yes,Yes,Yes,Yes,Yes,5121.012773,3533.008462
+153,Natalie Figueroa,74,Income > 300k,Needs Attention,Yes,Yes,Yes,Yes,Yes,Yes,6735.701833,3817.083375
+154,Miranda Steele,21,Income > 300k,Needs Attention,Yes,Yes,Yes,Yes,Yes,Yes,3099.842719,1967.270509
+155,Anita Juarez,82,Income > 300k,Needs Attention,Yes,Yes,Yes,Yes,Yes,Yes,5905.506447,4171.171429
+156,Kathryn Edwards,33,Income < 300k,Healthy,No,No,No,No,No,No,1858.726185,1075.045977
+157,Manuel Pittman,76,Income < 300k,Needs Attention,Yes,Yes,Yes,Yes,Yes,Yes,5698.834479,3255.51705
+158,Donald Wilson,36,Income < 300k,Healthy,No,No,No,No,No,No,2073.028274,1426.63079
+159,James Hernandez,85,Income < 300k,Needs Attention,Yes,Yes,Yes,Yes,Yes,Yes,5783.731975,3983.615098
+160,Kyle Jackson,62,Income > 300k,Healthy,No,No,No,No,No,No,3944.858723,2386.195616
+161,Sandra Taylor,34,Income < 300k,Healthy,No,No,No,No,No,No,1899.893234,1183.157596
+162,Catherine Hudson,86,Income > 300k,Needs Attention,Yes,Yes,Yes,Yes,Yes,Yes,5844.191005,3478.735962
+163,Nicholas Berry,58,Income < 300k,Needs Attention,Yes,Yes,Yes,Yes,Yes,Yes,4727.987472,2236.444591
+164,Laura Rogers,22,Income > 300k,Needs Attention,Yes,Yes,Yes,Yes,Yes,Yes,3224.32291,2119.278676
+165,Tiffany Parker,84,Income < 300k,Healthy,No,No,No,No,No,No,4129.57484,3011.665865
+166,Virginia Smith,48,Income < 300k,Healthy,No,No,No,No,No,No,2747.721198,1938.466427
+167,Shelly Meyer,32,Income > 300k,Healthy,No,No,No,No,No,No,3123.077264,1565.394501
+168,Logan Jones,19,Income > 300k,Healthy,No,No,No,No,No,No,1947.854339,1300.176688
+169,Benjamin Owens,43,Income > 300k,Healthy,No,No,No,No,No,No,3772.073311,1724.194765
+170,Raymond Oneill,32,Income > 300k,Healthy,No,No,No,No,No,No,2450.062369,1661.267765
+171,Adam Acosta,51,Income < 300k,Needs Attention,Yes,Yes,Yes,Yes,Yes,Yes,4706.992663,2763.647787
+172,Kimberly Bonilla,61,Income > 300k,Needs Attention,Yes,Yes,Yes,Yes,Yes,Yes,5334.176116,3444.246322
+173,Theresa Allen,74,Income < 300k,Needs Attention,Yes,Yes,Yes,Yes,Yes,Yes,6082.877674,2950.877821
+174,Jeffrey Robertson,64,Income < 300k,Needs Attention,Yes,Yes,Yes,Yes,Yes,Yes,4938.181474,3247.911141
+175,Joshua May,89,Income > 300k,Needs Attention,Yes,Yes,Yes,Yes,Yes,Yes,7265.323348,3669.932466
+176,Rachael Pope,52,Income > 300k,Healthy,No,No,No,No,No,No,3284.109386,2583.698153
+177,Scott Rosario,45,Income < 300k,Healthy,No,No,No,No,No,No,2511.087659,1941.309285
+178,Kayla Burch,61,Income > 300k,Healthy,No,No,No,No,No,No,3701.700206,2816.274473
+179,Spencer Robertson,27,Income < 300k,Needs Attention,Yes,Yes,Yes,Yes,Yes,Yes,2848.202283,1782.225221
+180,Ryan Howell,66,Income > 300k,Needs Attention,Yes,Yes,Yes,Yes,Yes,Yes,5004.913601,3673.502353
+181,Tanya Montoya,31,Income < 300k,Needs Attention,Yes,Yes,Yes,Yes,Yes,Yes,2977.536764,1748.859824
+182,Julie Kim,71,Income > 300k,Needs Attention,Yes,Yes,Yes,Yes,Yes,Yes,5638.013478,3814.938838
+183,Mario Fox,41,Income > 300k,Healthy,No,No,No,No,No,No,2848.4551,2007.668595
+184,Justin Allen,55,Income > 300k,Needs Attention,Yes,Yes,Yes,Yes,Yes,Yes,5289.274958,2536.557525
+185,James Finley,66,Income < 300k,Needs Attention,Yes,Yes,Yes,Yes,Yes,Yes,5037.239204,2752.808798
+186,Brad Martinez,59,Income < 300k,Healthy,No,No,No,No,No,No,3126.237497,1778.660633
+187,Patrick Thomas,25,Income > 300k,Healthy,No,No,No,No,No,No,2532.846648,1680.832611
+188,Randall Schroeder,81,Income > 300k,Healthy,No,No,No,No,No,No,4442.611701,3095.17862
+189,William Blair,56,Income > 300k,Needs Attention,Yes,Yes,Yes,Yes,Yes,Yes,5216.914656,2935.42122
+190,Connor Welch,89,Income < 300k,Needs Attention,Yes,Yes,Yes,Yes,Yes,Yes,6882.270988,3692.759825
+191,Christina Hamilton,35,Income < 300k,Healthy,No,No,No,No,No,No,2086.712057,1279.035687
+192,Michelle Mann,39,Income < 300k,Healthy,No,No,No,No,No,No,2614.062172,1256.49736
+193,Jason Baker,23,Income < 300k,Healthy,No,No,No,No,No,No,1406.986589,1117.558622
+194,Adam Trujillo,41,Income > 300k,Healthy,No,No,No,No,No,No,3511.771427,1718.100897
+195,Audrey Rivera,89,Income < 300k,Needs Attention,Yes,Yes,Yes,Yes,Yes,Yes,5631.366554,3603.490179
+196,Evelyn Houston,47,Income > 300k,Healthy,No,No,No,No,No,No,3217.456169,1883.979962
+197,Brittany Davis,85,Income > 300k,Needs Attention,Yes,Yes,Yes,Yes,Yes,Yes,6672.827575,3391.194014
+198,Justin Fields,33,Income < 300k,Healthy,No,No,No,No,No,No,1737.29249,1476.890823
+199,Steven Perkins,51,Income < 300k,Healthy,No,No,No,No,No,No,3451.306836,2176.177066
+200,Tom Ryan,74,Income > 300k,Needs Attention,Yes,Yes,Yes,Yes,Yes,Yes,5189.780142,3996.58459
+201,Angela Compton,59,Income < 300k,Needs Attention,Yes,Yes,Yes,Yes,Yes,Yes,4807.106777,3001.234958
+202,Patty Allen,79,Income > 300k,Needs Attention,Yes,Yes,Yes,Yes,Yes,Yes,5779.16843,3971.211078
+203,Karina Orr,79,Income > 300k,Healthy,No,No,No,No,No,No,5602.182471,2891.035727
+204,Charles Anderson,79,Income < 300k,Needs Attention,Yes,Yes,Yes,Yes,Yes,Yes,6356.20064,2806.488579
+205,Mrs. Tina Reese,89,Income > 300k,Healthy,No,No,No,No,No,No,5090.655307,3254.555842
+206,James Herrera,62,Income < 300k,Needs Attention,Yes,Yes,Yes,Yes,Yes,Yes,4820.266487,2531.937818
+207,Robin Wilkins,28,Income < 300k,Healthy,No,No,No,No,No,No,1969.951868,972.4143614
+208,Trevor Daugherty,43,Income > 300k,Healthy,No,No,No,No,No,No,3409.472278,1680.347982
+209,Sandra Rivera,46,Income < 300k,Healthy,No,No,No,No,No,No,2489.851429,1831.599413
+210,Rebecca Phillips,46,Income < 300k,Healthy,No,No,No,No,No,No,3307.078893,1351.679252
+211,Hayley Davis,47,Income > 300k,Healthy,No,No,No,No,No,No,3423.177954,2260.457202
+212,Tracy Gonzales,23,Income > 300k,Healthy,No,No,No,No,No,No,2603.744712,1246.486619
+213,Christopher Smith,35,Income > 300k,Healthy,No,No,No,No,No,No,3134.652437,1554.675628
+214,John Reese,19,Income > 300k,Healthy,No,No,No,No,No,No,2101.160884,1104.533615
+215,Eileen Smith,36,Income < 300k,Healthy,No,No,No,No,No,No,2588.693994,1474.97039
+216,Jason Wright,29,Income > 300k,Healthy,No,No,No,No,No,No,2592.105426,1431.897644
+217,Tina Klein,34,Income > 300k,Healthy,No,No,No,No,No,No,3168.261953,1698.715131
+218,Kevin Peterson,66,Income < 300k,Needs Attention,Yes,Yes,Yes,Yes,Yes,Yes,4987.984686,2923.068735
+219,Hannah Ward,86,Income < 300k,Needs Attention,Yes,Yes,Yes,Yes,Yes,Yes,6634.213805,3914.125122
+220,Jill Martinez,58,Income < 300k,Needs Attention,Yes,Yes,Yes,Yes,Yes,Yes,4761.398869,2850.230688
+221,Kimberly Farrell,73,Income > 300k,Needs Attention,Yes,Yes,Yes,Yes,Yes,Yes,6279.096677,3303.878692
+222,Caitlin Nguyen,81,Income < 300k,Needs Attention,Yes,Yes,Yes,Yes,Yes,Yes,5672.201949,2899.471721
+223,Melissa Ferrell,75,Income < 300k,Needs Attention,Yes,Yes,Yes,Yes,Yes,Yes,6183.090819,2707.214946
+224,Joshua Barron,41,Income < 300k,Healthy,No,No,No,No,No,No,2696.870003,1408.578364
+225,Kenneth Johnson,50,Income < 300k,Needs Attention,Yes,Yes,Yes,Yes,Yes,Yes,3962.711088,2211.165475
+226,Shane Delacruz,64,Income < 300k,Needs Attention,Yes,Yes,Yes,Yes,Yes,Yes,4950.618793,2765.805545
+227,Laura Gibson,41,Income > 300k,Healthy,No,No,No,No,No,No,2718.622873,2036.143015
+228,David Jones,80,Income > 300k,Needs Attention,Yes,Yes,Yes,Yes,Yes,Yes,5923.342871,3903.535428
+229,Dennis Brady,20,Income < 300k,Healthy,No,No,No,No,No,No,1596.104122,822.0667848
+230,Dr. Janet Boyer,36,Income > 300k,Healthy,No,No,No,No,No,No,2857.811183,1683.122228
+231,Shaun Herrera,73,Income > 300k,Needs Attention,Yes,Yes,Yes,Yes,Yes,Yes,6162.453605,3130.044039
+232,Mary White,27,Income < 300k,Healthy,No,No,No,No,No,No,1797.288839,1238.114207
+233,Noah Lee,35,Income < 300k,Healthy,No,No,No,No,No,No,1921.926658,1110.697961
+234,Scott Riley,48,Income > 300k,Healthy,No,No,No,No,No,No,3375.166482,2251.772467
+235,Cynthia Murray PhD,74,Income < 300k,Needs Attention,Yes,Yes,Yes,Yes,Yes,Yes,5355.863142,3399.777164
+236,Marie Aguilar,51,Income < 300k,Needs Attention,Yes,Yes,Yes,Yes,Yes,Yes,4275.075751,2670.783409
+237,Angela Newton,87,Income > 300k,Needs Attention,Yes,Yes,Yes,Yes,Yes,Yes,6867.533809,3625.408582
+238,Annette Scott,71,Income > 300k,Needs Attention,Yes,Yes,Yes,Yes,Yes,Yes,6151.977766,3309.266301
+239,Savannah Bradshaw,56,Income > 300k,Healthy,No,No,No,No,No,No,4164.492346,2417.402426
+240,Jacob Jackson,84,Income < 300k,Healthy,No,No,No,No,No,No,4571.066659,2563.743106
+241,Jason Johnson,68,Income > 300k,Needs Attention,Yes,Yes,Yes,Yes,Yes,Yes,6281.625186,3278.170519
+242,Jacob Howard,47,Income < 300k,Healthy,No,No,No,No,No,No,2699.020532,1502.785128
+243,Michael King,81,Income > 300k,Needs Attention,Yes,Yes,Yes,Yes,Yes,Yes,6141.234923,3679.641669
+244,Lauren Hawkins,63,Income > 300k,Healthy,No,No,No,No,No,No,4989.057418,2221.200796
+245,James Wright,72,Income < 300k,Healthy,No,No,No,No,No,No,4602.158142,2754.99915
+246,Shawn Anderson,70,Income < 300k,Needs Attention,Yes,Yes,Yes,Yes,Yes,Yes,5402.152705,2610.679407
+247,Denise Tucker,62,Income < 300k,Needs Attention,Yes,Yes,Yes,Yes,Yes,Yes,4116.823944,2793.928135
+248,Emily Gonzalez,53,Income < 300k,Needs Attention,Yes,Yes,Yes,Yes,Yes,Yes,4823.365003,2353.630101
+249,James Ruiz,20,Income > 300k,Healthy,No,No,No,No,No,No,2346.807491,1357.858499
+250,Olivia Hoffman,52,Income > 300k,Needs Attention,Yes,Yes,Yes,Yes,Yes,Yes,5542.750223,3197.639007
+251,Andrew Matthews,63,Income < 300k,Needs Attention,Yes,Yes,Yes,Yes,Yes,Yes,4247.311207,2904.629406
+252,Brian Sawyer,75,Income < 300k,Needs Attention,Yes,Yes,Yes,Yes,Yes,Yes,6013.985946,2662.204945
+253,Tyler Smith,18,Income > 300k,Healthy,No,No,No,No,No,No,1910.630835,1227.773021
+254,Kristin Johnson,50,Income < 300k,Healthy,No,No,No,No,No,No,3138.671477,1807.212134
+255,Michael Moore,68,Income < 300k,Needs Attention,Yes,Yes,Yes,Yes,Yes,Yes,4413.553296,2937.418975
+256,Erika Cooper,34,Income < 300k,Needs Attention,Yes,Yes,Yes,Yes,Yes,Yes,3654.69386,1986.57452
+257,Abigail Moreno,38,Income > 300k,Healthy,No,No,No,No,No,No,3396.610858,1689.840715
+258,John Wilson,71,Income < 300k,Needs Attention,Yes,Yes,Yes,Yes,Yes,Yes,5232.050513,2683.344977
+259,Lindsey Choi,42,Income < 300k,Healthy,No,No,No,No,No,No,2503.470629,1493.029622
+260,Ann Beasley,25,Income > 300k,Healthy,No,No,No,No,No,No,2214.625625,1678.557176
+261,Jennifer Williams,23,Income < 300k,Healthy,No,No,No,No,No,No,1780.30299,866.1038331
+262,Vanessa Kane,42,Income > 300k,Healthy,No,No,No,No,No,No,3308.60216,2234.009774
+263,Taylor Garcia,19,Income < 300k,Healthy,No,No,No,No,No,No,1578.792248,885.2444706
+264,John Gonzalez,52,Income < 300k,Needs Attention,Yes,Yes,Yes,Yes,Yes,Yes,4648.625479,2408.676944
+265,David Hines,43,Income > 300k,Healthy,No,No,No,No,No,No,3841.066559,2211.557068
+266,Andrew Bell,59,Income > 300k,Healthy,No,No,No,No,No,No,4589.556881,2399.998255
+267,Cindy Brown,29,Income < 300k,Healthy,No,No,No,No,No,No,1569.136986,1274.910454
+268,Jessica Smith,73,Income < 300k,Needs Attention,Yes,Yes,Yes,Yes,Yes,Yes,5056.844747,2968.437095
+269,Richard Christian,45,Income < 300k,Healthy,No,No,No,No,No,No,3002.989619,1916.669299
+270,Erin Valdez,55,Income > 300k,Needs Attention,Yes,Yes,Yes,Yes,Yes,Yes,4596.565725,3037.389214
+271,Ronald Crosby,20,Income > 300k,Healthy,No,No,No,No,No,No,2236.708657,1351.493316
+272,Susan Hughes,22,Income < 300k,Healthy,No,No,No,No,No,No,1314.776313,893.8446342
+273,John Moore,39,Income < 300k,Healthy,No,No,No,No,No,No,2155.996594,1620.985842
+274,Kevin Curtis,61,Income > 300k,Needs Attention,Yes,Yes,Yes,Yes,Yes,Yes,4709.962168,3261.733991
+275,Susan Baker,87,Income > 300k,Healthy,No,No,No,No,No,No,6087.619451,2977.902222
+276,Elizabeth Goodman,47,Income < 300k,Needs Attention,Yes,Yes,Yes,Yes,Yes,Yes,3599.545791,2051.965346
+277,Gregory Smith,73,Income > 300k,Healthy,No,No,No,No,No,No,4559.980331,3181.697154
+278,Bryan Miller,19,Income > 300k,Needs Attention,Yes,Yes,Yes,Yes,Yes,Yes,3488.478572,2037.363436
+279,Jose Barnes,77,Income < 300k,Needs Attention,Yes,Yes,Yes,Yes,Yes,Yes,5760.451921,3172.475483
+280,Michelle Williams,90,Income < 300k,Needs Attention,Yes,Yes,Yes,Yes,Yes,Yes,5112.923207,3734.693005
+281,Jose Burns,64,Income < 300k,Needs Attention,Yes,Yes,Yes,Yes,Yes,Yes,4312.844745,3166.42168
+282,Kristin Phillips,18,Income < 300k,Healthy,No,No,No,No,No,No,1468.027905,825.6270803
+283,Michelle Conner,70,Income > 300k,Healthy,No,No,No,No,No,No,4789.884901,3223.704549
+284,Trevor Sullivan,18,Income > 300k,Healthy,No,No,No,No,No,No,1965.483929,1247.278143
+285,Courtney Baker,78,Income > 300k,Needs Attention,Yes,Yes,Yes,Yes,Yes,Yes,6969.924404,3929.823071
+286,Jimmy Scott,76,Income < 300k,Needs Attention,Yes,Yes,Yes,Yes,Yes,Yes,5637.978356,3571.375716
+287,Zachary Contreras,45,Income < 300k,Healthy,No,No,No,No,No,No,2789.196083,1858.24572
+288,Devin Johnson,63,Income > 300k,Needs Attention,Yes,Yes,Yes,Yes,Yes,Yes,5578.40931,2906.626508
+289,Angela Taylor,78,Income > 300k,Needs Attention,Yes,Yes,Yes,Yes,Yes,Yes,6627.611626,3762.814844
+290,Tyler Marsh,30,Income > 300k,Needs Attention,Yes,Yes,Yes,Yes,Yes,Yes,3619.525529,2135.170365
+291,Zachary Santana,27,Income > 300k,Healthy,No,No,No,No,No,No,2459.658181,1352.357009
+292,Todd Burnett,82,Income > 300k,Needs Attention,Yes,Yes,Yes,Yes,Yes,Yes,5868.070889,3699.196092
+293,Hannah Gardner,36,Income < 300k,Healthy,No,No,No,No,No,No,2011.297565,1246.793605
+294,Krystal Richardson,19,Income > 300k,Healthy,No,No,No,No,No,No,2461.221784,1388.153648
+295,Samantha Deleon,69,Income > 300k,Needs Attention,Yes,Yes,Yes,Yes,Yes,Yes,6215.207141,2933.669335
+296,Janice Lopez,48,Income > 300k,Needs Attention,Yes,Yes,Yes,Yes,Yes,Yes,4718.606211,3057.721051
+297,Melanie Walsh,50,Income > 300k,Healthy,No,No,No,No,No,No,3336.500392,2068.708677
+298,James Lambert,21,Income > 300k,Healthy,No,No,No,No,No,No,2139.195825,1313.428291
+299,Carrie Perez,53,Income < 300k,Needs Attention,Yes,Yes,Yes,Yes,Yes,Yes,3680.252756,2125.504605
+300,Elizabeth Rodgers,69,Income < 300k,Needs Attention,Yes,Yes,Yes,Yes,Yes,Yes,4953.130243,2659.590621
